@@ -1,4 +1,4 @@
 // Code Keypad Component Here
 export default function Keypad(){
-  return()
+  return(<div> <input type="password" onClick={}></input> </div>)
 }
